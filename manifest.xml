@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch=".." review="" />
+  <default revision="main" remote="origin" sync-j="1" />
+  <project name="runner.git" path="runner" />
+  <project name="web.git" path="web" />
+</manifest>
