@@ -3,5 +3,6 @@
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
   <project name="runner.git" path="runner" />
+  <project name="scheduler.git" path="scheduler" />
   <project name="web.git" path="web" />
 </manifest>
