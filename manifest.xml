@@ -3,6 +3,8 @@
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
   <project name="deploy.git" path="deploy" />
+  <project name="plugin-filter.git" path="plugin-filter" />
+  <project name="plugin-score.git" path="plugin-score" />
   <project name="runner.git" path="runner" />
   <project name="scheduler.git" path="scheduler" />
   <project name="web.git" path="web" />
