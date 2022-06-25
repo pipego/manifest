@@ -3,6 +3,7 @@
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
   <project name="cli.git" path="cli" />
+  <project name="dag.git" path="dag" />
   <project name="deploy.git" path="deploy" />
   <project name="plugin-fetch.git" path="plugin-fetch" />
   <project name="plugin-filter.git" path="plugin-filter" />
