@@ -5,6 +5,7 @@
   <project name="cli.git" path="cli" />
   <project name="dag.git" path="dag" />
   <project name="deploy.git" path="deploy" />
+  <project name="exporter.git" path="exporter" />
   <project name="plugin-fetch.git" path="plugin-fetch" />
   <project name="plugin-filter.git" path="plugin-filter" />
   <project name="plugin-score.git" path="plugin-score" />
